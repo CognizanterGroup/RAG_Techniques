@@ -18,6 +18,7 @@
 !*.yml
 !.github
 !.github/workflows
+!all_rag_techniques_scripts
 
 # remove specific files
 __pycache__/
